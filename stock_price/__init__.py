@@ -1,1 +1,1 @@
-from stock_price import *
+from .stock_price import *
